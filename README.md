@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Caden's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 ![](https://visitor-badge.glitch.me/badge?page_id=cadenfranc.cadenfranc)
 
 <!--
