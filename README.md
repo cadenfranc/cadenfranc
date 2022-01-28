@@ -21,7 +21,7 @@ I'm a Reports and Systems Analyst @ Brigham Young University - Idaho, working to
 	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="50" />
 	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
-	<img title="MySQL" alt="MySQL" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/PNG/PowerBI.png" width="40" height="40" />
+	<img title="Power BI" alt="MySQL" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/PNG/PowerBI.png" width="40" height="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 </p>
 
