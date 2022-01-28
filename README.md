@@ -6,7 +6,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cadenfranc.cadenfranc)
 
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cadenfranc&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cadenfranc&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6">
 
 <!--
 **cadenfranc/cadenfranc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
