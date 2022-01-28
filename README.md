@@ -8,9 +8,12 @@
 
 ### About Me
 - 🔭 I’m currently working on ...
-	- Predictive Location Intelligence Utilizing SafeGraph Data
+	- Developing a predictive model that will leverage SafeGraph data for location intelligence
+	- Updating Power BI reports and other systems
 - 🌱 I’m currently learning ...
 	- Docker and Kubernetes
+	- Java, Gradle, and Springboot
+	- Developing REST APIs with Fast API and Springboot
 
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cadenfranc&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6">
 
