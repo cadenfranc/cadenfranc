@@ -7,9 +7,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=cadenfranc.cadenfranc)
 
 ### About Me
-- 🔭 I’m currently working on ...
-	- Developing a predictive model that will leverage SafeGraph data for location intelligence
-	- Updating Power BI reports and other systems
 - 🌱 I’m currently learning ...
 	- Docker and Kubernetes
 	- Java, Gradle, and Springboot
