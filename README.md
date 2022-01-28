@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Caden Franc 👋
 
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Caden's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cadenfranc.cadenfranc)
+
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cadenfranc&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
 
 <!--
 **cadenfranc/cadenfranc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
