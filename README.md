@@ -1,4 +1,4 @@
-# Hi there, I'm Caden Franc 👋
+## Hi there, I'm Caden Franc <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/caden-franc-cf/">
   <img align="left" alt="Caden's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
