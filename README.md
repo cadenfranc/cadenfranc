@@ -7,6 +7,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=cadenfranc.cadenfranc)
 
 ### About Me
+I'm a Reports and Systems Analyst @ Brigham Young University - Idaho, working to maintain reports and dashboards in various systems, and ensure the quality of our major data pipelines. 
+
 - 🌱 I’m currently learning ...
 	- Docker and Kubernetes
 	- Java, Gradle, and Springboot
