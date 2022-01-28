@@ -1,6 +1,6 @@
 ### Hi there, I'm Caden Franc 👋
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/caden-franc-cf/">
   <img align="left" alt="Caden's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
