@@ -1,4 +1,4 @@
-### Hi there, I'm Caden Franc 👋
+## Hi there, I'm Caden Franc 👋
 
 <a href="https://www.linkedin.com/in/caden-franc-cf/">
   <img align="left" alt="Caden's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -6,6 +6,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cadenfranc.cadenfranc)
 
+### Welcome to my GitHub profile!
 - 🔭 I’m currently working on ...
 	- Predictive Location Intelligence Utilizing SafeGraph Data
 - 🌱 I’m currently learning ...
