@@ -23,5 +23,7 @@ I'm a Reports and Systems Analyst @ Brigham Young University - Idaho, working to
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
 	<img title="Power BI" alt="MySQL" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/PNG/PowerBI.png" width="40" height="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
+	<img title="Streamlit" alt="Streamlit" src="https://image.pngaaa.com/798/5084798-middle.png" width="70" height="40" />
+	
 </p>
 
