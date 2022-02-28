@@ -9,7 +9,7 @@
 ### About Me
 I'm a Reports and Systems Analyst @ Brigham Young University - Idaho, working to maintain reports and dashboards in various systems, and ensure the quality of our major data pipelines. 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning about...
 	- Docker and Kubernetes
 	- Java, Gradle, and Springboot
 	- Developing REST APIs with Fast API and Springboot
