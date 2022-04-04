@@ -9,10 +9,10 @@
 ### About Me
 I'm a Reports and Systems Analyst @ Brigham Young University - Idaho, working to maintain reports and dashboards in various systems, and ensure the quality of our major data pipelines. 
 
-- 🌱 I’m currently learning about...
+- 🌱 I’m currently learning more about...
 	- Docker and Kubernetes
-	- Java, Gradle, and Springboot
-	- Developing REST APIs with Fast API and Springboot
+	- AWS Development and Architecting
+	- Orchestration with Apache Airflow
 
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cadenfranc&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6">
 
